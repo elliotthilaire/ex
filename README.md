@@ -1,8 +1,15 @@
 # Ex
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/ex`. To experiment with that code, run `bin/console` for an interactive prompt.
+An attempt to make Ruby look like Elixir.
+Without abiding by any rules.
 
-TODO: Delete this and the text above, and describe your gem
+## FAQ
+
+Q: Why?
+A: No reason.
+
+Q: What practical application does this have?
+A: None.
 
 ## Installation
 
@@ -22,7 +29,18 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+require "elixir"
+
+defmodule MyModule do
+  dẹf hello do
+    "world"
+  end
+end
+
+MyModule.hello
+=> "world"
+```
 
 ## Development
 
@@ -33,7 +51,6 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/elliotthilaire/ex.
-
 
 ## License
 
