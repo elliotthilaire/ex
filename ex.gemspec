@@ -9,8 +9,14 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Elliott Hilaire"]
   spec.email         = ["elliott.hilaire@gmail.com"]
 
-  spec.summary       = "Coming soon."
-  spec.description   = "A gem that is coming soon."
+  spec.summary       = "An experiment to make Ruby look like Elixir without abiding by any rules."
+  spec.description   = "
+    Q: Why?
+    A: No reason.
+
+    Q: What practical application does this have?
+    A: None.
+    "
   spec.homepage      = "https://github.com/elliotthilaire/ex"
   spec.license       = "MIT"
 
