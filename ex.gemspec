@@ -10,13 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["elliott.hilaire@gmail.com"]
 
   spec.summary       = "An experiment to make Ruby look like Elixir without abiding by any rules."
-  spec.description   = "
-    Q: Why?
-    A: No reason.
-
-    Q: What practical application does this have?
-    A: None.
-    "
+  spec.description   = "An experiment to make Ruby look like Elixir without abiding by any rules. Why? No reason. What practical application does this have? None."
   spec.homepage      = "https://github.com/elliotthilaire/ex"
   spec.license       = "MIT"
 
