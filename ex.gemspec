@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["elliott.hilaire@gmail.com"]
 
   spec.summary       = "Coming soon."
-  spec.description   = "A gem that is coming soon"
+  spec.description   = "A gem that is coming soon."
   spec.homepage      = "https://github.com/elliotthilaire/ex"
   spec.license       = "MIT"
 
